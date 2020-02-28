@@ -14,5 +14,9 @@ int main()
 
 void fuck()
 {
-	cout << "XXX";
+
+	for (int i = 0; i < 3; i++) {
+		cout << "X" << "\t";
+	}
+
 }
