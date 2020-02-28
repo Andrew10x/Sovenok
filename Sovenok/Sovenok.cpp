@@ -11,3 +11,8 @@ int main()
 		cout << i + 1 << " ";
 	}
 }
+
+void fuck()
+{
+	cout << "XXX";
+}
